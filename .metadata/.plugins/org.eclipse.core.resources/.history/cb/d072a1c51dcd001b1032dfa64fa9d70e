@@ -1,0 +1,27 @@
+class Emp{
+	int id;
+	String name;
+	String ceo;
+	public void show() {
+		// TODO Auto-generated method stub
+		System.out.println(name + ceo+ id);
+	}
+	
+}
+public class StringDemo {
+	public static void main(String[] args) {
+		Emp n=new Emp();
+		n.id=8;
+		n.name="rashi";
+		n.ceo="Mahesh";
+		
+		Emp r=new Emp();
+		r.id=9;
+		r.name="rashika";
+		r.ceo="Mahesh";
+		
+		n.show();
+		r.show();
+		
+	}
+}

@@ -1,0 +1,17 @@
+package c2tc_practice;
+import java.sql.*;
+
+public class load_example {
+	public static void main(String args[]) throws ClassNotFoundException{
+//		Class.forName("c2tc_practice.load_example1");
+		//Class.forName("/c2tc_practice/src/c2tc_practice/load_example1.java");
+	String url="localhost:3306";
+	String user="root";
+	String pass="password";
+		
+		Class.forName("com.mysql.cj.jdbc.Driver");
+	Connection con=DriverManager.getConnection(url, user, pass);
+	
+	}
+
+}

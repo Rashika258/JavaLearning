@@ -1,0 +1,14 @@
+interface Demo1 {
+	void abc();
+	default void show() {
+		System.out.println("In ");
+	}
+}
+public class MultipleInheritanceInterface {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,17 @@
+interface Keyboard{
+	void click();
+}
+class Clicker implements Keyboard{
+	
+}
+public class AnonymousClassWithInterface {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,8 @@
+package youtube.learnings.junitDemo;
+
+public class Calculator {
+	CalcularorService service;
+	public int add(int a, int b ) {
+		return service.add(a, b);
+	}
+}

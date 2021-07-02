@@ -1,0 +1,14 @@
+package youtube.learnings.junitDemo;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+
+public class TestCalculator  {
+	Calculator c=new Calculator();
+	
+	@Test
+	public void testAdd() {
+		assertEquals();
+	}
+}

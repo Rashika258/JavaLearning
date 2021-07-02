@@ -1,0 +1,35 @@
+interface Writers{
+	public abstract void write();
+}
+//interfaces are used to declare a method but it can't be defined
+//all methods inside interface has to be abstract
+//
+interface Printer{
+	
+}
+class Pen implements Writers, Printer{
+	public void write(){
+		System.out.println("Inside Pen");
+	}
+}
+class Pencil {
+	public void write(){
+		System.out.println("Inside Pencil");
+	}
+}
+class Kit{
+	public void doSomething(Pen p) {
+		p.write();
+	}
+}
+public class InterfaceDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Kit k=new Kit();
+		Pen p=new Pen();
+		Pencil pc=new Pencil();
+		k.doSomething(p);
+	}
+
+}

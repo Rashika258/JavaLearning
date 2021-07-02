@@ -1,0 +1,14 @@
+package c2tc.technoserve;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Student s=new Student();
+		s.setUid(800);
+		s.setName("Rashika");
+		s.setAge(21);
+		save(s);
+	}
+
+}

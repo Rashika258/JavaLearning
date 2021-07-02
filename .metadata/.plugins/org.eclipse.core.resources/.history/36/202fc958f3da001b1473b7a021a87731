@@ -1,0 +1,19 @@
+class Mouse{
+	public void show() {
+		System.out.println("Inside mouse show");
+	}
+}
+class Clickmouse extends Mouse{
+	public void show() {
+		System.out.println("Inside Clickmouse show");
+	}
+}
+public class AnonymouisExampleDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Mouse obj=new Clickmouse();
+		obj.show();
+	}
+
+}

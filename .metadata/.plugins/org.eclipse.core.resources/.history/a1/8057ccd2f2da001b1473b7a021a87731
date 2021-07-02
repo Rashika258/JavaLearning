@@ -1,0 +1,14 @@
+class Mouse{
+	public void show() {
+		System.out.println("Inside mouse show");
+	}
+}
+public class AnonymouisExampleDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Mouse obj=new Mouse();
+		obj.show();
+	}
+
+}

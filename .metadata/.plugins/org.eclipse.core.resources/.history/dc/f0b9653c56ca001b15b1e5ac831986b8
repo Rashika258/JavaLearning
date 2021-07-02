@@ -1,0 +1,9 @@
+package c2tc_practice;
+
+public class load_example {
+	public static void main(String args[]) throws ClassNotFoundException{
+//		Class.forName("c2tc_practice.load_example1");
+		Class.forName("/c2tc_practice/src/c2tc_practice/load_example1.java");
+	}
+
+}

@@ -1,0 +1,9 @@
+package c2tc.technoserve;
+
+public class Dao_layer {
+	public Student getStudent(int rollno) {
+		Student s=new Student();
+		s.uid=rollno;
+		String url=
+	}
+}

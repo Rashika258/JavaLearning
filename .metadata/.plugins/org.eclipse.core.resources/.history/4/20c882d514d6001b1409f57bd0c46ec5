@@ -1,0 +1,10 @@
+package youtube.learnings.junitDemo;
+
+public class TestCalculator  {
+	Calculator c=new Calculator();
+	
+	@Test
+	public void testAdd() {
+		
+	}
+}

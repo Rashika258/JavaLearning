@@ -1,0 +1,8 @@
+package c2tc_practice;
+
+public class load_example {
+	public static void main(String args[]) {
+		Class.forName("c2tc_practice.load_example1");
+	}
+
+}

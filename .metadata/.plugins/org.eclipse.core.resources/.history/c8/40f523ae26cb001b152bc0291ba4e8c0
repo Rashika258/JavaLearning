@@ -1,0 +1,7 @@
+package c2tc.technoserve;
+
+public class Dao_layer {
+	public Student getStudent(int rollno) {
+		
+	}
+}

@@ -1,0 +1,12 @@
+package youtube.learnings.junitDemo;
+
+import org.junit.Test;
+
+public class TestCalculator  {
+	Calculator c=new Calculator();
+	
+	@Test
+	public void testAdd() {
+		
+	}
+}

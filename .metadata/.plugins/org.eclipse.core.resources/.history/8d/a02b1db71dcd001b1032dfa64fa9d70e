@@ -1,0 +1,11 @@
+class Emp{
+	int id;
+	String name;
+	String ceo;
+	
+}
+public class StringDemo {
+	public static void main(String[] args) {
+		
+	}
+}
