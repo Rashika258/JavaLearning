@@ -1,0 +1,4 @@
+
+public class User_1_Exception extends Exception {
+
+}

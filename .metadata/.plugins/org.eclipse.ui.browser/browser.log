@@ -17,3 +17,18 @@ Jun 29, 2021 13:52:00.201 [21176:11680:0629/135200.200:ERROR:edge_auth_errors.cc
 Jun 29, 2021 13:52:00.385 
 Jun 29, 2021 13:52:03.888 [21176:11680:0629/135203.887:ERROR:device_event_log_impl.cc(214)] [13:52:03.887] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
 Jun 29, 2021 13:52:05.856 [21176:11680:0629/135205.855:ERROR:smartscreen_dns_resolver.cc(99)] SmartScreenDnsResolver::OnComplete Error: -7 DidTimeOut: 1 URL: https://ntp.msn.com/edge/ntp?locale=en&title=New%20tab&dsp=1&sp=Bing&prerender=1
+
+Jul 02, 2021 15:36:19.229 NEW SESSION
+Jul 02, 2021 15:36:19.229 [3324:19760:0702/153619.201:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+Jul 02, 2021 15:36:19.864 [3324:19760:0702/153619.202:ERROR:cache_util.cc(147)] Unable to move cache folder C:\Users\Rashika\AppData\Local\Microsoft\Edge\User Data\ShaderCache\GPUCache to C:\Users\Rashika\AppData\Local\Microsoft\Edge\User Data\ShaderCache\old_GPUCache_000
+Jul 02, 2021 15:36:19.864 [9024:8276:0702/153619.201:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+Jul 02, 2021 15:36:19.864 [9024:8276:0702/153619.202:ERROR:cache_util.cc(147)] Unable to move cache folder C:\Users\Rashika\AppData\Local\Microsoft\Edge\User Data\ShaderCache\GPUCache to C:\Users\Rashika\AppData\Local\Microsoft\Edge\User Data\ShaderCache\old_GPUCache_000
+Jul 02, 2021 15:36:19.865 [3324:19760:0702/153619.202:ERROR:disk_cache.cc(184)] Unable to create cache
+Jul 02, 2021 15:36:19.865 [3324:19760:0702/153619.202:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Jul 02, 2021 15:36:19.865 [9024:8276:0702/153619.202:ERROR:disk_cache.cc(184)] Unable to create cache
+Jul 02, 2021 15:36:19.865 [9024:8276:0702/153619.202:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Jul 02, 2021 15:36:22.594 [3324:10784:0702/153622.594:ERROR:edge_auth_errors.cc(383)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kTokenRequestFailed, Secondary Error: kTokenFetchUserInteractionRequired, Platform error: -2138701818, hex:80860006, Error string: Error code: 0x80860006, error message:Error
+Jul 02, 2021 15:36:22.594 
+Jul 02, 2021 15:36:23.03 Opening in existing browser session.
+Jul 02, 2021 15:36:23.04 Opening in existing browser session.
+Jul 02, 2021 15:36:43.473 [3324:10784:0702/153643.473:ERROR:device_event_log_impl.cc(214)] [15:36:43.473] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)

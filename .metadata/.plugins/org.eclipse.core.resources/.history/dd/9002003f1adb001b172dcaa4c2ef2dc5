@@ -1,0 +1,9 @@
+public class UserDefinedExceptionDemo {
+	public static void main(String[] args) {
+		int i,j;
+		i=8;
+		j=7;
+		
+	}
+
+}
