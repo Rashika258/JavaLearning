@@ -1,0 +1,6 @@
+package youtube.learnings;
+
+public class PackageDemo {
+	//to use i in some other package it has to be made public
+	public int i;
+}
