@@ -1,0 +1,13 @@
+import java.util.ArrayList;
+import java.util.Collection;
+
+//Collection-interface --> so it needs other classes for implementation of methods defned in it
+//collection-concept
+//Collections-framework
+public class CollectionDemo {
+	//1.8 <Integer> used on both sides is removed
+	public static void main(String[] args) {
+		Collection values=new ArrayList();
+	}
+
+}

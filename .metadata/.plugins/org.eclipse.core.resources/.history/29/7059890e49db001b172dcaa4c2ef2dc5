@@ -1,0 +1,21 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class ComparatorInterfaceDemo {
+	public static void main(String[] args) {
+		List<Integer> value=new ArrayList<>();
+		value.add(10);
+		value.add(2);
+		value.add(4);
+		value.add(1);
+		//comparator is an interface by itself
+		//No other class implements comparator
+		
+		Comparator c
+		Collections.sort(value, c); //c is comparator object
+		for(Integer o:value) {
+			System.out.println(o);
+		}
+	}
+}
