@@ -1,0 +1,16 @@
+class Counter {
+	int count;
+	public void increement() {
+		count++;
+	}
+}
+public class ThreadSynchronisationDemo {
+
+	public static void main(String[] args) {
+		Counter c=new Counter();
+		Thread t1
+		c.increement();
+		System.out.println("Count "+c.count);
+	}
+
+}

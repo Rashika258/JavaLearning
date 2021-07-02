@@ -1,0 +1,13 @@
+class Counter {
+	int count;
+	public void increement() {
+		count++;
+	}
+}
+public class ThreadSynchronisationDemo {
+
+	public static void main(String[] args) {
+		/c
+	}
+
+}
