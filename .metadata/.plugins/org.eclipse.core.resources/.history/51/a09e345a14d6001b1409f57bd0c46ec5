@@ -1,7 +1,0 @@
-package youtube.learnings.junitDemo;
-
-import junit.framework.TestCase;
-
-public class TestCalculator extends TestCase {
-
-}

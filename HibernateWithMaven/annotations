@@ -1,0 +1,11 @@
+Annotations
+@Entity-used to mark any class as enitity
+@Table-used to change table details
+@Id-used to mark column as id ... ie primary key
+@GeneratedValue-hibernate will automatically generate values for that using an internal sequence, so that we don't require it to set manually
+@Column-can be used to psecify column mappings, to change column name in associated table in database
+@Transient-tells hibernate not to save this field
+@Temporal-tells hibernate the format in which date has to be saved
+@Lob-tells hibernate that it is large object, not simple object
+
+@OneToOne @OneToMany @MAnyToOne @JoinColumn

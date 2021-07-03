@@ -26,10 +26,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.youtube.learnings.HibernateWithMaven"/>
 		</list>
 		<list key="groupId">
+			<item value="com.youtube.learnings"/>
 		</list>
 		<list key="artifactId">
+			<item value="HibernateWithMaven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -45,12 +48,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="learnings"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="HibernatePractice"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
