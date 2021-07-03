@@ -1,0 +1,11 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapDemo {
+public static void main(String[] args) {
+	Map<K, V> map=new HashMap();
+	map.put("name", "rashika");
+	map.put("actor", "john");
+	map.put("class", "rashika");
+}
+}

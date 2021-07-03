@@ -1,0 +1,6 @@
+
+public class SetInterfaceDemo {
+	public static void main(String[] args) {
+		Set<Integer> v
+	}
+}
