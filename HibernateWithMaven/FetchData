@@ -1,0 +1,11 @@
+get()
+-->get method of hibernate session returns null if object is not found in cache as well as database
+-->get() involves database hit if the object doesn't exists in Session cache and returns a fully initialised object which may involve several database call
+-->use if you aren't sure that object exists in db or not
+
+
+load()
+--> method throws
+-->ObjectNotFoundException if object isn't found on cache as well as on database but never return null
+--> load method can return proxy in place and only initialise object or hit database if any method other than getId() is called on persistent or entity object. This lazy initialization increases performance
+-->use if you are sure that object exists in db or not

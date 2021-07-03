@@ -24,6 +24,9 @@ public class App
 		st.setId(2);
 		st.setName("varsha");
 		st.setCity("Bangalore");
+		st.setId(3);
+		st.setName("rashika");
+		st.setCity("Bangalore");
 		System.out.println(st);
 		//creating object of address class
 		Address ad=new Address();
