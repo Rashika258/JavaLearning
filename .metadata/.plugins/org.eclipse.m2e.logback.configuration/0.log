@@ -6395,3 +6395,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (1) references 
 2021-07-04 06:46:55,971 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\HibernateWithMaven\src\main\resources
 2021-07-04 06:46:55,973 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-07-04 06:46:55,973 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-workspace\HibernateWithMaven\src\test\resources
+2021-07-04 11:11:47,303 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
