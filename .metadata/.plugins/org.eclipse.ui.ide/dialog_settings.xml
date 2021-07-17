@@ -13,6 +13,11 @@
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\downloads\CarServiceManagementSystem-master\CarServiceManagementSystem-master"/>
+			<item value="D:\downloads\CAR_SALES_SYSTEM_IN_JAVA_WITH_SOURCE_CODE\Car Sales JAVA\CarSales"/>
+			<item value="D:\downloads\CAR_SALES_SYSTEM_IN_JAVA_WITH_SOURCE_CODE"/>
+		</list>
 	</section>
 	<section name="SaveAsDialogSettings">
 		<item key="DIALOG_X_ORIGIN" value="36"/>

@@ -14,7 +14,7 @@ public class load_connection {
 
     //				Specify to the DriverManager which JDBC drivers to try to make Connections with.
     //		error-Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'
-    Class.forName("com.mysql.cj.jdbc.Driver");
+    Class.forName("com.mysql.jdbc.Driver");
     //		obtain a Connection instance from the DriverManager.
     Connection con = DriverManager.getConnection(url, uname, pass);
     //			Once a Connection is established, it can be used to create Statement and PreparedStatement objects, as well as retrieve metadata about the database. 

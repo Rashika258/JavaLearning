@@ -26,12 +26,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.youtube.learnings.SpringFrameWorkDemo"/>
 			<item value="com.youtube.learnings.HibernateWithMaven"/>
 		</list>
 		<list key="groupId">
 			<item value="com.youtube.learnings"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringFrameWorkDemo"/>
 			<item value="HibernateWithMaven"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -68,5 +70,18 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="OnlineShoppingStore"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="OnlineShoppingStore"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
 	</section>
 </section>

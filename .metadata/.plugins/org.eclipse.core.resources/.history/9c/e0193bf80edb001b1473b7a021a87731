@@ -1,5 +1,0 @@
-package youtube.learnings;
-
-public class PackageDemo {
-	public int i;
-}

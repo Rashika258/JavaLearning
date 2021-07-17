@@ -1,3 +1,6 @@
 #Tomcat publish data
-#Fri Jul 02 14:09:28 IST 2021
+#Thu Jul 08 19:22:48 IST 2021
+org.eclipse.jst.jee.server\:JavaBeansDemo=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\JavaBeansDemo
+org.eclipse.jst.jee.server\:OnlineStore=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\OnlineStore
 org.eclipse.jst.jee.server\:FirstServletDemo=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\FirstServletDemo
+org.eclipse.jst.jee.server\:OnlineShopping=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\OnlineShopping

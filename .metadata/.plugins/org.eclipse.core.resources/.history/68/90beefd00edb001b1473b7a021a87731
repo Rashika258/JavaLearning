@@ -1,5 +1,0 @@
-package com.rashika;
-
-public class PackageTest {
-	String i;
-}

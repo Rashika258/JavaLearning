@@ -1,7 +1,0 @@
-//Abstract class -> define and declare
-//interface -> declare ->1.7
-public class DefaultMethodInterface {
-	public static void main(String[] args) {
-		
-	}
-}
