@@ -14,6 +14,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Rashika\Workspaces\OnlineShop\online-shopping"/>
 			<item value="D:\downloads\CarServiceManagementSystem-master\CarServiceManagementSystem-master"/>
 			<item value="D:\downloads\CAR_SALES_SYSTEM_IN_JAVA_WITH_SOURCE_CODE\Car Sales JAVA\CarSales"/>
 			<item value="D:\downloads\CAR_SALES_SYSTEM_IN_JAVA_WITH_SOURCE_CODE"/>
@@ -30,8 +31,8 @@
 		<item key="BUILD_NOW" value="true"/>
 		<item key="BUILD_ALL" value="true"/>
 		<item key="TOGGLE_SELECTED" value="false"/>
-		<item key="DIALOG_WIDTH" value="500"/>
-		<item key="DIALOG_HEIGHT" value="467"/>
-		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="DIALOG_WIDTH" value="579"/>
+		<item key="DIALOG_HEIGHT" value="402"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>

@@ -1,6 +1,8 @@
 #Tomcat publish data
-#Thu Jul 08 19:22:48 IST 2021
+#Thu Jul 22 07:43:24 IST 2021
 org.eclipse.jst.jee.server\:JavaBeansDemo=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\JavaBeansDemo
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Rashika\\.m2\\repository\\org\\springframework\\spring-web\\4.3.6.RELEASE\\spring-web-4.3.6.RELEASE.jar=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\onlineshopping\\WEB-INF\\lib\\spring-web-4.3.6.RELEASE.jar
 org.eclipse.jst.jee.server\:OnlineStore=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\OnlineStore
 org.eclipse.jst.jee.server\:FirstServletDemo=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\FirstServletDemo
-org.eclipse.jst.jee.server\:OnlineShopping=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\OnlineShopping
+org.eclipse.jst.jee.server\:onlineshopping=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\onlineshopping
+org.eclipse.jst.j2ee.server\:shoppingbackend=D\:\\Apache Software Foundation\\Tomcat-8\\wtpwebapps\\onlineshopping\\WEB-INF\\lib\\shoppingbackend-0.0.1-SNAPSHOT.jar
