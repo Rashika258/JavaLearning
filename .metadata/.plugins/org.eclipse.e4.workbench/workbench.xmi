@@ -652,7 +652,7 @@
           <tags>org.eclipse.m2e.editor.MavenPomEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_HOXDsOqnEeuy--U9qRpAig" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Connector.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Connector.java&quot; partName=&quot;Connector.java&quot; title=&quot;Connector.java&quot; tooltip=&quot;OnlineStore/src/main/java/project/Connector.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OnlineStore/src/main/java/project/Connector.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Connector.java&quot; partName=&quot;Connector.java&quot; title=&quot;Connector.java&quot; tooltip=&quot;OnlineStore/src/main/java/project/Connector.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OnlineStore/src/main/java/project/Connector.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;69&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -1073,7 +1073,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_pRPNBuUpEeuQTZCo8NdXEA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_VT_MgOqlEeuy--U9qRpAig" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_pRS42OUpEeuQTZCo8NdXEA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_yJg1QEA3EeyGSfbhN5u86A" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_pRS42OUpEeuQTZCo8NdXEA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_pRPNE-UpEeuQTZCo8NdXEA" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1113,7 +1113,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_pRPzIuUpEeuQTZCo8NdXEA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_VUEFAOqlEeuy--U9qRpAig" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_pRS4VeUpEeuQTZCo8NdXEA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_yJm74EA3EeyGSfbhN5u86A" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_pRS4VeUpEeuQTZCo8NdXEA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_pRPzLuUpEeuQTZCo8NdXEA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2984,7 +2984,7 @@
   </commands>
   <commands xmi:id="_pRS39OUpEeuQTZCo8NdXEA" elementId="org.eclipse.egit.ui.history.Merge" commandName="Merge" category="_pRTe8uUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRS39eUpEeuQTZCo8NdXEA" elementId="org.eclipse.ui.window.switchToEditor" commandName="Switch to Editor" description="Switch to an editor" category="_pRTe4-UpEeuQTZCo8NdXEA"/>
-  <commands xmi:id="_pRS39uUpEeuQTZCo8NdXEA" elementId="org.eclipse.ui.help.dynamicHelp" commandName="Show Contextual Help" description="Open the contextual help" category="_pRTe5eUpEeuQTZCo8NdXEA"/>
+  <commands xmi:id="_pRS39uUpEeuQTZCo8NdXEA" elementId="org.eclipse.ui.help.dynamicHelp" commandName="Show Context Help" description="Open the contextual help" category="_pRTe5eUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRS39-UpEeuQTZCo8NdXEA" elementId="org.eclipse.ui.navigate.nextSubTab" commandName="Next Sub-Tab" description="Switch to the next sub-tab" category="_pRTe3OUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRS3-OUpEeuQTZCo8NdXEA" elementId="org.eclipse.jdt.ui.edit.text.java.comment" commandName="Comment" description="Turn the selected lines into Java comments" category="_pRTe8OUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRS3-eUpEeuQTZCo8NdXEA" elementId="org.eclipse.jdt.ui.edit.text.java.introduce.parameter" commandName="Introduce Parameter" description="Introduce a new method parameter based on the selected expression" category="_pRTe5OUpEeuQTZCo8NdXEA"/>
@@ -3351,7 +3351,7 @@
   <commands xmi:id="_pRS5U-UpEeuQTZCo8NdXEA" elementId="org.eclipse.egit.ui.team.ShowHistory" commandName="Show in History" category="_pRTe7OUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRS5VOUpEeuQTZCo8NdXEA" elementId="org.eclipse.debug.ui.commands.DebugLast" commandName="Debug" description="Launch in debug mode" category="_pRTe6eUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRS5VeUpEeuQTZCo8NdXEA" elementId="org.eclipse.jdt.ui.edit.text.java.toggle.codemining" commandName="Toggle Code Mining" description="Toggle Code Mining Annotations" category="_pRTe6OUpEeuQTZCo8NdXEA"/>
-  <commands xmi:id="_pRS5VuUpEeuQTZCo8NdXEA" elementId="org.eclipse.m2e.core.ui.command.updateProject" commandName="Update Project" description="Update Maven project configuration and dependencies" category="_pRTe4-UpEeuQTZCo8NdXEA"/>
+  <commands xmi:id="_pRS5VuUpEeuQTZCo8NdXEA" elementId="org.eclipse.m2e.core.ui.command.updateProject" commandName="Update Maven Project" description="Update Maven project configuration and dependencies" category="_pRTe4-UpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRS5V-UpEeuQTZCo8NdXEA" elementId="org.eclipse.mylyn.wikitext.ui.convertToHtmlCommand" commandName="Generate HTML" category="_pRTe8uUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRS5WOUpEeuQTZCo8NdXEA" elementId="org.eclipse.egit.ui.team.SimplePush" commandName="Push to Upstream" category="_pRTe7OUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRS5WeUpEeuQTZCo8NdXEA" elementId="org.eclipse.ui.window.previousView" commandName="Previous View" description="Switch to the previous view" category="_pRTe4-UpEeuQTZCo8NdXEA"/>
@@ -4015,6 +4015,7 @@
   <commands xmi:id="_pRTexOUpEeuQTZCo8NdXEA" elementId="org.eclipse.xtend.ide.refactoring.importer.ImportStaticExtensionMethod" commandName="Import Static Extension" description="Add a static extension import for the selected method and refactor all occurrences" category="_pRTe8uUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRTexeUpEeuQTZCo8NdXEA" elementId="AUTOGEN:::org.eclipse.xtend.core.Xtend.ide.rulerActions/org.eclipse.xtend.core.Xtend.doubleClickBreakpointAction" commandName="Not Used" category="_pRTe8uUpEeuQTZCo8NdXEA"/>
   <commands xmi:id="_pRTexuUpEeuQTZCo8NdXEA" elementId="AUTOGEN:::org.eclipse.xtext.purexbase.PureXbase.ide.rulerActions/org.eclipse.xtext.purexbase.PureXbase.doubleClickBreakpointAction" commandName="Not Used" category="_pRTe8uUpEeuQTZCo8NdXEA"/>
+  <commands xmi:id="_pKvjcEA3EeyGSfbhN5u86A" elementId="org.eclipse.egit.ui.CompareWithEachOther" commandName="Compare with Each Other" description="Compare two files selected in the Compare Editor with each other." category="_pRTe4eUpEeuQTZCo8NdXEA"/>
   <addons xmi:id="_pRTex-UpEeuQTZCo8NdXEA" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
   <addons xmi:id="_pRTeyOUpEeuQTZCo8NdXEA" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
   <addons xmi:id="_pRTeyeUpEeuQTZCo8NdXEA" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
